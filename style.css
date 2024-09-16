@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: Fixed (1, 440px)px;
+    height: Hug (68px)px;
+    padding: 0px 100px 0px 100px;
+    gap: 10px;
+    justify: space-between;
+    opacity: 0px;
+    margin-bottom: 60px;
+    display: block;
+    margin-top: 20px;
+}
+
+nav ul {
+    float: right;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 8px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.btn-light {
+    border-color: black;
+    padding: 5px;
+}
+
+.Typography {
+    margin-left: 60px;
+    display: flex;
+}
+
+.Typography1 {
+    margin-left: 60px;
+}
+
+.logotypes {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.heading-subheading{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading-subheading1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.process{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading-subheading2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media(max-width:895px){
+    
+}
